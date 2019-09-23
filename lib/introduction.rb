@@ -4,9 +4,10 @@
 # in order to complete the rest of this course and be ready for the next course!
 def introduction(name)
   puts "He, My name is #{nam}"
+end
 def introduction(language)
    puts "Hello, My name is #{name} and i am learning to program in #{language}"
-   
+ end
 
 
 
