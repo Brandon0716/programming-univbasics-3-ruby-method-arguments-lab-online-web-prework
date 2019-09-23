@@ -3,7 +3,7 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 def introduction(name)
-  puts "He, My name is #{nam}"
+  puts "He, My name is #{name}"
 end
 def introduction(language)
    puts "Hello, My name is #{name} and i am learning to program in #{language}"
